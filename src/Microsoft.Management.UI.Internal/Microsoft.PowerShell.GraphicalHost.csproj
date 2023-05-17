@@ -15,6 +15,9 @@
     <DefineConstants>$(DefineConstants);CORECLR</DefineConstants>
   </PropertyGroup>
 
+  
+  
+  
   <ItemGroup>
     <Resource Include="resources\Graphics\Add16.png" />
     <Resource Include="resources\Graphics\CloseTile16.png" />
